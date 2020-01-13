@@ -123,7 +123,7 @@ Debian 10 (buster) - amd64:
 
 ~~~
 mkdir -p ~/bin && source ~/.profile
-wget -qO ~/bin/qbittorrent-nox https://git.io/JvfCB
+wget -qO ~/bin/qbittorrent-nox https://git.io/JvJR3
 chmod 700 ~/bin/qbittorrent-nox
 ~~~
 
@@ -131,7 +131,7 @@ Debian 10 (buster) - arm64:
 
 ~~~
 mkdir -p ~/bin && source ~/.profile
-wget -qO ~/bin/qbittorrent-nox https://git.io/JvfCB
+wget -qO ~/bin/qbittorrent-nox https://git.io/JvJRs
 chmod 700 ~/bin/qbittorrent-nox
 ~~~
 
@@ -145,7 +145,7 @@ Ubuntu 18.04 - amd64:
 
 ~~~
 mkdir -p ~/bin && source ~/.profile
-wget -qO ~/bin/qbittorrent-nox https://git.io/JvfC0
+wget -qO ~/bin/qbittorrent-nox https://git.io/JvJRL
 chmod 700 ~/bin/qbittorrent-nox
 ~~~
 
@@ -153,7 +153,7 @@ Ubuntu 18.04 - arm64:
 
 ~~~
 mkdir -p ~/bin && source ~/.profile
-wget -qO ~/bin/qbittorrent-nox https://git.io/JvfC0
+wget -qO ~/bin/qbittorrent-nox https://git.io/JvJRq
 chmod 700 ~/bin/qbittorrent-nox
 ~~~
 
